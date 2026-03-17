@@ -64,7 +64,7 @@ RABBITMQ_PASSWORD=guest
 JWT_SECRET_KEY=your_secret_key
 JWT_ISSUER=your_issuer
 JWT_AUDIENCE=your_audience
-SEQ_ADMIN_PASSWORD=Admin123!
+SEQ_ADMIN_PASSWORD=your_password
 ```
 
 3. Start the services
